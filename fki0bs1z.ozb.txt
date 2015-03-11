@@ -1,0 +1,98 @@
+﻿Merge branch 'master' of https://github.com/leddkire/proyecto3RA
+
+Conflicts:
+	Assets/multitarget.unity
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 1 and 4 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   Assets/CollisionEnd.cs
+#	new file:   Assets/CollisionEnd.cs.meta
+#	new file:   Assets/Models.meta
+#	new file:   Assets/Models/15-road-rash-texture-vector.png
+#	new file:   Assets/Models/15-road-rash-texture-vector.png.meta
+#	new file:   Assets/Models/Materials.meta
+#	new file:   Assets/Models/Materials/15-road-rash-texture-vector.mat
+#	new file:   Assets/Models/Materials/15-road-rash-texture-vector.mat.meta
+#	new file:   Assets/Models/Materials/Broken_BrickMat.mat
+#	new file:   Assets/Models/Materials/Broken_BrickMat.mat.meta
+#	new file:   Assets/Models/Materials/ReferenceMat.mat
+#	new file:   Assets/Models/Materials/ReferenceMat.mat.meta
+#	new file:   Assets/Models/Materials/VP_Rysum_08_diffuse_webpreview.mat
+#	new file:   Assets/Models/Materials/VP_Rysum_08_diffuse_webpreview.mat.meta
+#	new file:   Assets/Models/Materials/WreckingBall.mat
+#	new file:   Assets/Models/Materials/WreckingBall.mat.meta
+#	new file:   Assets/Models/Untitled.png
+#	new file:   Assets/Models/Untitled.png.meta
+#	new file:   Assets/Models/VP_Rysum_08_diffuse_webpreview.jpg
+#	new file:   Assets/Models/VP_Rysum_08_diffuse_webpreview.jpg.meta
+#	new file:   Assets/Models/WreckingBall.jpg
+#	new file:   Assets/Models/WreckingBall.jpg.meta
+#	new file:   Assets/Models/beaten brick.obj
+#	new file:   Assets/Models/beaten brick.obj.meta
+#	new file:   Assets/Models/close.png
+#	new file:   Assets/Models/close.png.meta
+#	new file:   Assets/Models/few.png
+#	new file:   Assets/Models/few.png.meta
+#	new file:   Assets/Models/shaded lines.png
+#	new file:   Assets/Models/shaded lines.png.meta
+#	new file:   Assets/Models/side.png
+#	new file:   Assets/Models/side.png.meta
+#	new file:   Assets/MoveBall.cs
+#	new file:   Assets/MoveBall.cs.meta
+#	new file:   Assets/TouchScript.meta
+#	new file:   Assets/TouchScript/Devices.meta
+#	new file:   Assets/TouchScript/Devices/Display.meta
+#	new file:   Assets/TouchScript/Devices/Display/Unknown Device.asset
+#	new file:   Assets/TouchScript/Devices/Display/Unknown Device.asset.meta
+#	new file:   Assets/TouchScript/Editor.meta
+#	new file:   Assets/TouchScript/Editor/TouchScript.Editor.dll
+#	new file:   Assets/TouchScript/Editor/TouchScript.Editor.dll.meta
+#	new file:   Assets/TouchScript/Packages.meta
+#	new file:   Assets/TouchScript/Packages/Playmaker.unitypackage
+#	new file:   Assets/TouchScript/Packages/Playmaker.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/Scaleform.unitypackage
+#	new file:   Assets/TouchScript/Packages/Scaleform.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.Android.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.Android.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.TUIO.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.TUIO.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.Windows7.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.Windows7.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.Windows8.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.Windows8.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.WindowsPhone.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.WindowsPhone.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.WindowsStore.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.WindowsStore.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.iOS.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.iOS.unitypackage.meta
+#	new file:   Assets/TouchScript/Packages/TouchScript.unitypackage
+#	new file:   Assets/TouchScript/Packages/TouchScript.unitypackage.meta
+#	new file:   Assets/TouchScript/Plugins.meta
+#	new file:   Assets/TouchScript/Plugins/TouchScript.dll
+#	new file:   Assets/TouchScript/Plugins/TouchScript.dll.meta
+#	new file:   Assets/TouchScript/Prefabs.meta
+#	new file:   Assets/TouchScript/Prefabs/Touch Debugger.prefab
+#	new file:   Assets/TouchScript/Prefabs/Touch Debugger.prefab.meta
+#	new file:   Assets/TouchScript/Textures.meta
+#	new file:   Assets/TouchScript/Textures/Touch.png
+#	new file:   Assets/TouchScript/Textures/Touch.png.meta
+#	modified:   Assets/startGame.cs
+#	modified:   ProjectSettings/EditorBuildSettings.asset
+#	modified:   QCAR/somedata16
+#
+
