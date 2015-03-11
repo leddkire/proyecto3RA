@@ -13,7 +13,7 @@ public class MoveBall : MonoBehaviour {
 		GameObject obj = GameObject.Find ("Sphere");
 		var sphere = obj.transform;
 		
-		sphere.GetComponent<Rigidbody> ().AddForce (0, vector.y, vector.x);
+		sphere.GetComponent<Rigidbody> ().AddForce (vector.x, 0, vector.y);
 		//Destroy (gameObject);
 	}
 }
