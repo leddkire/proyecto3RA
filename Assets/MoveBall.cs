@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MoveBall : MonoBehaviour {
 	private void OnEnable(){
+		this.renderer.material.color = Color.magenta;
 		Debug.Log ("Se creo el enable");
 		GetComponent<FlickGesture>().Flicked += flickedHandler;
 		GetComponent<LongPressGesture> ().LongPressed += longPressHandler;
