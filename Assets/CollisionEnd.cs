@@ -14,7 +14,9 @@ public class CollisionEnd : MonoBehaviour {
 	}
 
 	void OnCollisionEnter(Collision collisionInfo){
-		if (collisionInfo.collider.name == "endPlane") {
+		if (collisionInfo.collider.name == "Cube") {
+			AudioSource clip = GameObject.Find ("Sphere/hit").audio;
+			clip.Play ();
 			Application.LoadLevel("gameStart");
 		}
 	}

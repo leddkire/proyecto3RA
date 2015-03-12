@@ -10,7 +10,7 @@ public class checkGameOver : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (gameObject.transform.position.x < -10) {
+		if (gameObject.transform.position.y < -10) {
 			Application.LoadLevel("gameStart");
 		}
 	}
